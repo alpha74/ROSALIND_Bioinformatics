@@ -1,4 +1,4 @@
 # GC
-## Computinh GC content
+## Computing GC content
 
 http://rosalind.info/problems/gc/
