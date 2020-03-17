@@ -1,2 +1,2 @@
 # ROSALIND_Bioinformatics
-Questions solved on rosalind.info related to Bioinformatics.
+Questions solved on rosalind.info of Course Bioinformatics.
